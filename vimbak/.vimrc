@@ -19,7 +19,7 @@ Plugin 'VundleVim/Vundle.vim'
 " Git plugin not hosted on GitHub
 " Plugin 'git://git.wincent.com/command-t.git'
 
-
+Plugin 'fatih/vim-go'
 Plugin 'git://github.com/vim-scripts/taglist.vim'
 Plugin 'git://github.com/majutsushi/tagbar.git'
 Plugin 'git://github.com/scrooloose/nerdtree.git'
