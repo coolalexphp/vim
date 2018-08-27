@@ -18,7 +18,7 @@ Plugin 'VundleVim/Vundle.vim'
 " Plugin 'L9'
 " Git plugin not hosted on GitHub
 " Plugin 'git://git.wincent.com/command-t.git'
-
+Plugin 'Valloric/YouCompleteMe'
 Plugin 'fatih/vim-go'
 Plugin 'git://github.com/vim-scripts/taglist.vim'
 Plugin 'git://github.com/majutsushi/tagbar.git'
